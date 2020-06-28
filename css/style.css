@@ -39,7 +39,7 @@ body{
     padding: 10px; 
     padding-top: 48px;  
     text-align: left;
-    background-color: gray;
+    background-color: #8a8a8a;
     min-height: max-content;
     position: relative;
     display: inline-block;
@@ -69,13 +69,13 @@ body{
 
 }
 .container__first--small{
-    background-color: violet;
+    background-color:#ca8a8a;
 }
 .container__second--small{
-    background-color: red;  
+    background-color: #b43939;  
 }
 .container__third--small{
-    background-color: yellow;
+    background-color: #dfc98d;
 }
 
 .tittle--small{
